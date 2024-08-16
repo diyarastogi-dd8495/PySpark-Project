@@ -1,5 +1,4 @@
-# PySpark-Project
-# IPL Data Analysis with PySpark and Databricks
+# PySpark-Project: IPL Data Analysis with PySpark and Databricks
 
 This project demonstrates how to analyze IPL (Indian Premier League) data using PySpark within a Databricks environment. The dataset is hosted on AWS S3, and the analysis is performed using PySpark functionality within a Databricks notebook.
 
